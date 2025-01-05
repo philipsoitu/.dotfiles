@@ -22,5 +22,4 @@ WARNING: in simulation mode so not modifying filesystem.
 phil@phil-framework:~/.dotfiles$ stow --adopt -v i3/
 MV: .config/i3/config -> .dotfiles/i3/.config/i3/config
 LINK: .config/i3/config => ../../.dotfiles/i3/.config/i3/config
-phil@phil-framework:~/.dotfiles$ 
 ```
