@@ -1,9 +1,13 @@
-set number
+set relativenumber
+set scrolloff=50
 
 syntax on
 filetype plugin indent on
 
 command! W w
+
+autocmd BufRead,BufNewFile *.tex colorscheme desert
+
 
 augroup AutoCompileLatex
 	autocmd!
