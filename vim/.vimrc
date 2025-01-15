@@ -6,7 +6,6 @@ filetype plugin indent on
 
 command! W w
 
-autocmd BufRead,BufNewFile *.tex colorscheme desert
 
 
 augroup AutoCompileLatex
