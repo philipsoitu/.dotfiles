@@ -5,3 +5,5 @@
 # Please adapt and uncomment the following lines:
 #	name = philipsoitu
 #	email = philip.soitu@gmail.com
+[core]
+	autocrlf = input

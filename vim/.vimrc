@@ -6,6 +6,9 @@ filetype plugin indent on
 
 command! W w
 
+set tabstop=4
+set shiftwidth=4
+set expandtab
 
 
 augroup AutoCompileLatex
